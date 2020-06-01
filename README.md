@@ -1,2 +1,2 @@
 # rephys
-Repl.it collaboration project with the community, the site will teach people how to do things.
+### a grand collection of education and understanding
